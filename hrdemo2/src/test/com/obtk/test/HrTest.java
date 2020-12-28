@@ -46,5 +46,6 @@ public class HrTest {
     @Test
     public void test3(){
         System.out.println("ZXF测试是否能运行!");
+        System.out.println("又一次测试!!!");
     }
 }

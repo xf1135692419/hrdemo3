@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hrdemo2:war">
+    <output-path>$PROJECT_DIR$/hrdemo2/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>hrdemo2</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="hrdemo2.war">
+      <element id="artifact" artifact-name="hrdemo2:war exploded" />
+    </root>
+  </artifact>
+</component>
